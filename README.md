@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/f3775f32-d513-4226-bc68-2ca6d8882247" width="190" align="left" />
+<img src="https://github.com/user-attachments/assets/f3775f32-d513-4226-bc68-2ca6d8882247" width="170" align="left" />
 
 ### Olá, me chamo Stella! 👋
 
@@ -28,14 +28,14 @@
 
 ***  
 
-<div>
+<!-- <div>
   <a href="https://github.com/stellaazevedodev">
     <img loading="lazy" height="180em"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellaazevedodev&layout=compact&langs_count=7&theme=dracula"/>
     <img loading="lazy" height="180em"
          src="https://github-readme-stats.vercel.app/api?username=stellaazevedodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
-</div>
+</div> -->
 
 ***  
 
