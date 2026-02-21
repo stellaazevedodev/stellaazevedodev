@@ -30,7 +30,7 @@
 
 ![Stats](https://github-readme-stats-nine-chi-64.vercel.app/api?username=stellaazevedodev&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-nine-chi-64.vercel.app/api/top-langs/?username=stellaazevedodev&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-nine-chi-64.vercel.app/api/top-langs/?username=stellaazevedodev&layout=compact&theme=tokyonight) 
 
 ***  
 
