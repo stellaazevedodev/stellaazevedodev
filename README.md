@@ -38,12 +38,12 @@
 <p>
   <img src="https://github.com/user-attachments/assets/3394582c-55cc-4b7e-8829-c3849e1b1383" width="120" align="left"/>
   <br><br>
-  <a href="https://linkedin.com/in/stella-costa-de-azevedo-5977713b2">
+  <a href="https://linkedin.com/in/stellaazevedo-dev">
     <img src="https://img.shields.io/badge/Meu_LinkedIn-87CEFA?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <br><br>
   <a href="mailto:costadeazevedostella@gmail.com">
-    <img src="https://img.shields.io/badge/Me_envie_um_email-7d3e35?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Meu_email-7d3e35?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>  
 </p>
 
